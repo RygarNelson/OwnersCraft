@@ -1,0 +1,21 @@
+2014-11-14 19:43:07 [INFO] LiteLoader 1.6.4_01 starting up...
+2014-11-14 19:43:07 [INFO] Java reports OS="windows 7"
+2014-11-14 19:43:07 [INFO] Mods folder found, searching E:\MultiMC\instances\ownerscraft\minecraft\mods
+2014-11-14 19:43:07 [INFO] Found 0 mod file(s)
+2014-11-14 19:43:07 [INFO] Enumerating class path...
+2014-11-14 19:43:07 [INFO] Class path separator=";"
+2014-11-14 19:43:07 [INFO] Class path entries=(
+   classpathEntry=E:/MultiMC/jars/NewLaunch.jar
+)
+2014-11-14 19:43:07 [INFO] Discovering mods on class path...
+2014-11-14 19:43:07 [INFO] Searching protection domain code source...
+2014-11-14 19:43:07 [INFO] Searching E:/MultiMC/jars/NewLaunch.jar...
+2014-11-14 19:43:07 [INFO] Mod class discovery completed
+2014-11-14 19:43:07 [INFO] LiteLoader PreInit completed
+2014-11-14 19:43:07 [INFO] Beginning LiteLoader PostInit...
+2014-11-14 19:43:07 [INFO] Optifine version OptiFine_1.6.4_HD_D1 detected, enabling compatibility check
+2014-11-14 19:43:07 [INFO] Discovered 0 total mod(s)
+2014-11-14 19:43:08 [INFO] Inhibiting sound manager reload
+2014-11-14 19:43:08 [INFO] Event manager is registering hooks
+2014-11-14 19:44:24 [INFO] Sound manager reload inhibit removed
+2014-11-14 19:44:24 [INFO] Reloading sound manager

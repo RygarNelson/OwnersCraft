@@ -1,0 +1,48 @@
+{
+    "components": [
+        {
+            "cachedName": "LWJGL 2",
+            "cachedVersion": "2.9.0",
+            "cachedVolatile": true,
+            "dependencyOnly": true,
+            "uid": "org.lwjgl",
+            "version": "2.9.0"
+        },
+        {
+            "cachedName": "Minecraft",
+            "cachedRequires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "cachedVersion": "1.6.4",
+            "important": true,
+            "uid": "net.minecraft",
+            "version": "1.6.4"
+        },
+        {
+            "cachedName": "Forge",
+            "cachedRequires": [
+                {
+                    "equals": "1.6.4",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "cachedVersion": "9.11.1.965",
+            "uid": "net.minecraftforge"
+        },
+        {
+            "cachedName": "LiteLoader",
+            "cachedRequires": [
+                {
+                    "equals": "1.6.4",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "cachedVersion": "1.6.4_01",
+            "uid": "com.mumfrey.liteloader"
+        }
+    ],
+    "formatVersion": 1
+}
