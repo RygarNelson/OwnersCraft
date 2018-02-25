@@ -72,6 +72,10 @@ This is the list of the mods. This list will update with the publish of new vers
 * Mod loaders & libraries
 
 # Installation
+# Attention
+
+From the next version (1.5), MultiMC is no longer supported and required. It will be required the [Twitch App](https://app.twitch.tv/)
+
 ## Prerequisites
 **Client and Server**
 
