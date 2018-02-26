@@ -30,7 +30,6 @@ This is the list of the mods. This list will update with the publish of new vers
 * EnderStorage
 * Engineers Toolbox
 * Equivalent Exchange 3 + Equivalency
-* Extended Enchant
 * Extra Utilities
 * Factorisation
 * Finder Compass
