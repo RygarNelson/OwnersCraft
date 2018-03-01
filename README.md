@@ -73,7 +73,7 @@ This is the list of the mods. This list will update with the publish of new vers
 # Installation
 # Attention
 
-From the next version (1.5), MultiMC is no longer supported and required. It will be required the [Twitch App](https://app.twitch.tv/)
+From the next version (1.5), MultiMC is no longer supported and required. It will be required the [Technic Launcher](https://www.technicpack.net). I'm also planning to write a *Troubleshooting* section
 
 ## Prerequisites
 **Client and Server**
